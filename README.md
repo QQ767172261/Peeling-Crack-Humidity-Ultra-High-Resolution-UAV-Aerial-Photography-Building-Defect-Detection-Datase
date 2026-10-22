@@ -1,4 +1,4 @@
-﻿无人机航拍建筑裂缝检测数据集-超高分辨率航拍建筑物缺陷检测数据集，2765张，yolo，voc，coco三种标注方式![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/a642f504ae544ec593f4fa7fd3fee029.png)
+﻿超高分辨率航拍建筑物缺陷检测数据集，2765张，yolo，voc，coco三种标注方式![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/a642f504ae544ec593f4fa7fd3fee029.png)
 
 图像尺寸:3472*4624
 类别数量:3类![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/539d32e90c2f4542af705a00606bd4bb.png)
